@@ -1,6 +1,6 @@
 
 <div align="center" >
-  <img src="Assets/Name.png" alt="Hello" width = "400" height = "200">
+  <img src="Assets/Name.png" alt="Hello" width = "450" height = "250">
 </div>
 
 ### A little about me... (Not so important..)
