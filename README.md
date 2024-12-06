@@ -4,13 +4,14 @@
 </div>
 
 ### A little about me... (Not so important..)
-
+<div style="font-family: 'Courier New', monospace; font-size: 16px; color: #333;">
+<pre>
 ```java
 public class Akhil {
     public static void main(String[] args) {
         String[] pronouns = {"He", "Him"};
 
-        String education = "Final Year Student at Centurion University of Technology and Management"; // Still figuring it out
+        String education = "Final Year Student at Centurion University";
         String[] codingLanguages = {"Java", "JavaScript", "Python", "C", "PHP", "Shell scripting"};
         String[] frontEnd = {"React", "Tailwind", "HTML", "CSS"};
         String[] backEnd = {"SpringBoot", "Java", "PHP"}; //This has my Heart
@@ -36,11 +37,12 @@ public class Akhil {
         System.out.println("Code finished. It's hard to write this....So it should be Hard to understand.....!");
     }
 }
+</pre>
+</div>
 ```
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVubXVoOWhuNDJxNnYyYWdlZWhieG5pa2tnNjd3MGcwdzE0ZXJsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.gif" width="230">
 </div>
-
 ### Get in touch :)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-kumar-madineni/)
 <a href="mailto:akhilkumarmadineni@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
