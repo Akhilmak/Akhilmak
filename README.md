@@ -4,7 +4,7 @@
 </div>
 
 ### A little about me... (Not so important..)
-<div >
+
 ```java
 public class Akhil {
     public static void main(String[] args) {
@@ -37,7 +37,6 @@ public class Akhil {
     }
 }
 ```
-</div>
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVubXVoOWhuNDJxNnYyYWdlZWhieG5pa2tnNjd3MGcwdzE0ZXJsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.gif" width="230">
 </div>
